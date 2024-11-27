@@ -1,0 +1,9 @@
+gradio==3.34.0
+torch==2.1.0
+diffusers==0.25.0
+transformers==4.34.0
+opencv-python==4.8.1.78
+Pillow==10.0.0
+imageio==2.31.0
+imageio-ffmpeg==0.4.8
+numpy==1.26.0
