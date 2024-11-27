@@ -73,9 +73,9 @@ This project is part of the assignment to set up and generate rare-human actions
 
 | Name              | Roll Number | GitHub Profile                        | Email Address                |
 |-------------------|-------------|---------------------------------------|------------------------------|
-| [K.V.N.D Akanksha]       | se21uari008   | [GitHub Link](https://github.com/Akanksharao24) | se21uari008@mahindrauniversity.edu.in         |
-| [Joshita Monanji]   | se21uari058    | [GitHub Link](https://github.com/Joshita-Monangi) | se21uari058@mahindrauniversity.edu.in    |
-| [Deekshita K]   | se21uari033    | [GitHub Link](https://github.com/deekshitakommi) | se21uari033@mahindrauniversity.edu.in          |
+| K.V.N.D Akanksha       | se21uari008   | [GitHub Link](https://github.com/Akanksharao24) | se21uari008@mahindrauniversity.edu.in         |
+| Joshita Monanji  | se21uari058    | [GitHub Link](https://github.com/Joshita-Monangi) | se21uari058@mahindrauniversity.edu.in    |
+| Deekshita Kommi  | se21uari033    | [GitHub Link](https://github.com/deekshitakommi) | se21uari033@mahindrauniversity.edu.in          |
 
 
 
